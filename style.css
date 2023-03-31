@@ -69,9 +69,6 @@ a{
 
 @media screen and (max-width:580px) {
 
-    body{
-    }
-
     #relogio {
         flex-direction: column;
         height: 600px;
