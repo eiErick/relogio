@@ -10,7 +10,6 @@
 
 body {
     height: 100vh;
-    /*background: linear-gradient(120deg, #ffe53bd8, #ff2525da);*/
     background-image: url(imagens/Background.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,9 +56,16 @@ body {
 
 #my {
     position: relative;
-    top: 15vh;
-    left: 0vh;
+    top: 45vh;
     font-size: 1.3em;
+}
+
+#my:hover {
+    font-size: 1.45em;
+}
+
+abbr{
+    text-decoration: none;
 }
 
 a{
